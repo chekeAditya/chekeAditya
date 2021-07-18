@@ -13,11 +13,15 @@
 
 - 🤝 I’m looking for help with **Competitive programming**
 
+- 👨‍💻 All of my projects are available at [https://github.com/AdityaCheke291?tab=repositories](https://github.com/AdityaCheke291?tab=repositories)
+
 - 📝 I regularly write articles on [https://medium.com/@adityacheke4](https://medium.com/@adityacheke4)
 
 - 💬 Ask me about **Java, Android Studio**
 
 - 📫 How to reach me **adityacheke4@gmail.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/aditya-cheke/](https://www.linkedin.com/in/aditya-cheke/)
 
 - ⚡ Fun fact **I think I can understand your code better than you.**
 
@@ -27,6 +31,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/aditya-cheke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-cheke" height="30" width="40" /></a>
+<a href="https://instagram.com/_._adiix_._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_._adiix_._" height="30" width="40" /></a>
 <a href="https://medium.com/@adityacheke4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@adityacheke4" height="30" width="40" /></a>
 </p>
 

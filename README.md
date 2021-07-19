@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Aditya Cheke</h1>
-<h3 align="center">A passionate Android Developer From India</h3>
+<h1 align="center">Hey, 👋 I am Aditya Cheke. </h1>
+<h3 align="center">I like to use my app development skills for good causes.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityacheke291&label=Profile%20views&color=0e75b6&style=flat" alt="adityacheke291" /> </p>
 

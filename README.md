@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityacheke291" alt="adityacheke291" /></a> </p>
 
-- 🔭 I’m currently working on **JioSaavn Clone**
+- 🔭 I’m currently working on **Amazon Clone**
 
-- 🌱 I’m currently learning **Retrofit**
+- 🌱 I’m currently learning **Android Development**
 
 - 👯 I’m looking to collaborate on **Android Application**
 

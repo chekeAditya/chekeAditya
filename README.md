@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AdityaCheke291?tab=repositories](https://github.com/AdityaCheke291?tab=repositories)
 
-- 📝 I regularly write articles on [https://medium.com/@chekeaditya](https://medium.com/@adityacheke)
+- 📝 I regularly write articles on [https://medium.com/@chekeaditya](https://medium.com/@chekeaditya)
 
 - 💬 Ask me about **Java, Android Studio**
 

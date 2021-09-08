@@ -1,10 +1,10 @@
 <h1 align="center">Hey, 👋 I am Aditya Cheke. </h1>
 <h2 align="center">Welcome to <b>Open Source Android Development.</h3>
-<h3 align="center">I like to use my app development skills for good causes.</h3>
+<h3 align="center">I'm Learning Android Development. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Mobile app 📲 Development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityacheke291&label=Profile%20views&color=0e75b6&style=flat" alt="adityacheke291" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityacheke291" alt="adityacheke291" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityacheke4" alt="adityacheke4" /></a> </p>
 
 - 🔭 I’m currently working on **Amazon Clone**
 
@@ -45,7 +45,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityacheke291&show_icons=true&locale=en" alt="adityacheke291" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityacheke291&" alt="adityacheke291" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityacheke4&" alt="adityacheke4" /></p>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/adityacheke"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="adityacheke" /></a></p><br><br>

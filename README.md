@@ -1,5 +1,5 @@
 <h1 align="center">Hey, 👋 I am Aditya Cheke. </h1>
-<h2 align="center">Welcome to <b>Open Source Android Development.</h3>
+<h2 align="center">Welcome to <b>Open Source Android Development.</h2>
 <h3 align="center">I'm Learning Android Development. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Mobile app 📲 Development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityacheke291&label=Profile%20views&color=0e75b6&style=flat" alt="chekeAditya" /> </p>

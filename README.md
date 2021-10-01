@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chekeaditya" alt="chekeaditya" /></a> </p>
 
-- 🔭 I’m currently working on [Amazon Clone](https://github.com/chekeAditya/Amazon-Prime)
+- 🔭 I’m currently working on [Groww Application](https://github.com/chekeAditya/Amazon-Prime)
 
 - 🌱 I’m currently learning **Android Development**
 

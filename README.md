@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **adityacheke4@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/aditya-cheke/](https://www.linkedin.com/in/aditya-cheke/)
+- 📄 Know about my experiences [Resume](https://www.canva.com/design/DAEq_RcsLSE/dumh-3tB9s5PEOnp1aU9ug/view?utm_content=DAEq_RcsLSE&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 
 - 📝Visit my [Portfolio](https://adityaportfolio-chekeaditya.vercel.app/#experience)
 

@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/aditya-cheke/](https://www.linkedin.com/in/aditya-cheke/)
 
-- 📝Portfolio
+- 📝Visit my [Portfolio](https://adityaportfolio-chekeaditya.vercel.app/#experience)
 
 - ⚡ Fun fact **I think I can understand your code better than you.**
 

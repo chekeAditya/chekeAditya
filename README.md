@@ -11,21 +11,15 @@
 
 - 🔭 I’m currently working on [Groww Application](https://github.com/chekeAditya/Amazon-Prime)
 
-- 🌱 I’m currently learning **Android Development**
-
-- 👯 I’m looking to collaborate on [Android Development](https://www.masaischool.com/)
-
-- 🤝 I’m looking for help with **Competitive programming**
-
 - 👨‍💻 All of my projects are available at [https://github.com/chekeAditya?tab=repositories](https://github.com/chekeAditya?tab=repositories)
 
 - 📝 I regularly write articles on [https://medium.com/@chekeaditya](https://medium.com/@chekeaditya)
 
-- 💬 Ask me about **Java, Android Studio,Kotlin**
-
 - 📫 How to reach me **adityacheke4@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/aditya-cheke/](https://www.linkedin.com/in/aditya-cheke/)
+
+- 📝Portfolio
 
 - ⚡ Fun fact **I think I can understand your code better than you.**
 

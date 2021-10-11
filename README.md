@@ -1,5 +1,3 @@
-[![MasterHead](https://mobiosolutions.com/wp-content/uploads/2019/12/Mobio-Android-Banner.png)](https://github.com/chekeAditya?tab=repositories)
-
 <h1 align="center">Hi 👋, I'm Aditya Cheke</h1>
 <h2 align="center">Welcome to Open Source Android Development</h2>
 <h3 align="center">I'm Learning Android Development. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Mobile app 📲 Development.</h3>

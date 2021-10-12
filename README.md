@@ -7,15 +7,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chekeaditya" alt="chekeaditya" /></a> </p>
 
-- 🔭 I’m currently working on [Groww Application](https://github.com/chekeAditya/Amazon-Prime)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/chekeAditya?tab=repositories)
 
-- 👨‍💻 All of my projects are available at [https://github.com/chekeAditya?tab=repositories](https://github.com/chekeAditya?tab=repositories)
-
-- 📝 I regularly write articles on [https://medium.com/@chekeaditya](https://medium.com/@chekeaditya)
+- 📝 I regularly write articles on [Medium](https://medium.com/@chekeaditya)
 
 - 📫 How to reach me **adityacheke4@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://www.canva.com/design/DAEq_RcsLSE/dumh-3tB9s5PEOnp1aU9ug/view?utm_content=DAEq_RcsLSE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+- 📄 My experiences [Resume](https://www.canva.com/design/DAEq_RcsLSE/dumh-3tB9s5PEOnp1aU9ug/view?utm_content=DAEq_RcsLSE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 - 📝Visit my [Portfolio](https://adityaportfolio-chekeaditya.vercel.app)
 

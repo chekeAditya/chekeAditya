@@ -23,8 +23,8 @@
 </p>
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chekeaditya&theme=dark" alt="chekeaditya" /></a> </p>
-<h1></h1>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chekeaditya&no-bg=true&no-frame=false&theme=onestar" alt="chekeaditya" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/chekeAditya?tab=repositories)
 

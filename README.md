@@ -42,10 +42,6 @@
 - How we build an Application like Amazon Prime Video Using Kotlin [Prime Video](https://medium.com/@chekeaditya/how-to-create-an-app-like-amazon-prime-video-using-kotlin-13e06111e8d4) 
 - How we Build clone of (m-commerce) Grofer Application using Java [Grofers Clone](https://medium.com/@chekeaditya/how-i-build-clone-of-m-commerce-grofer-application-2633c358a733?source=user_profile---------1----------------------------)
 
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> </p>
-
 [![Aditya Github Graph](https://activity-graph.herokuapp.com/graph?username=chekeaditya&hide_border=true&hide_title=true&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 

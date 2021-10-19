@@ -46,6 +46,9 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> </p>
 
+[![Aditya Github Graph](https://activity-graph.herokuapp.com/graph?username=chekeaditya&hide_border=true&hide_title=true&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 <p><a href="https://www.buymeacoffee.com/adityacheke"> <img align="right" src="https://github.com/chekeAditya/PersonalRepo/blob/main/ReadmeFile/img/buyacoffee.gif" height="100" width="100" alt="adityacheke" /></a></p><br><br>
 
 <h3 align="center">Show some  ❤️  by starring some repository!</h3>

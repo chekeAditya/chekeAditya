@@ -42,8 +42,6 @@
 - How we build an Application like Amazon Prime Video Using Kotlin [Prime Video](https://medium.com/@chekeaditya/how-to-create-an-app-like-amazon-prime-video-using-kotlin-13e06111e8d4) 
 - How we Build clone of (m-commerce) Grofer Application using Java [Grofers Clone](https://medium.com/@chekeaditya/how-i-build-clone-of-m-commerce-grofer-application-2633c358a733?source=user_profile---------1----------------------------)
 
-[![Aditya Github Graph](https://activity-graph.herokuapp.com/graph?username=chekeaditya&hide_border=true&hide_title=true&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
 <p><a href="https://www.buymeacoffee.com/adityacheke"> <img align="right" src="https://github.com/chekeAditya/PersonalRepo/blob/main/ReadmeFile/img/buyacoffee.gif" height="100" width="100" alt="adityacheke" /></a></p><br><br>
 

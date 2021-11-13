@@ -26,11 +26,11 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chekeaditya&no-bg=true&no-frame=false&theme=onestar" alt="chekeaditya" /></a> </p>
 
+- 📫 How to reach me **adityacheke4@gmail.com**
+
 - 👨‍💻 All of my projects are available at [Github](https://github.com/chekeAditya?tab=repositories)
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@chekeaditya)
-
-- 📫 How to reach me **adityacheke4@gmail.com**
 
 - 📄 My experiences [Resume](https://www.canva.com/design/DAEq_RcsLSE/dumh-3tB9s5PEOnp1aU9ug/view?utm_content=DAEq_RcsLSE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 

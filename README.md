@@ -32,8 +32,6 @@
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@chekeaditya)
 
-- 📄 My experiences [Resume](https://www.canva.com/design/DAEq_RcsLSE/dumh-3tB9s5PEOnp1aU9ug/view?utm_content=DAEq_RcsLSE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
-
 - 📝Visit my [Portfolio](https://adityacheke-portfolio.vercel.app/)
 
 - ⚡ Fun fact **I think I can understand your code better than you.**

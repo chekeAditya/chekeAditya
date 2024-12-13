@@ -1,6 +1,8 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=chekeAditya&label=Profile views&color=0e75b6&style=flat" alt="chekeAditya" /> </p>
 <p align="right">
-    <img src="https://komarev.com/ghpvc/?username=chekeAditya&label=Profile views&color=0e75b6&style=flat" alt="chekeAditya" />
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FchekeAditya&count_bg=%230E75B6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visits&edge_flat=false"/>
+</p>
+<p align="right">
+    <img src="https://komarev.com/ghpvc/?username=chekeAditya&label=Profile+views&color=0e75b6&style=flat" alt="chekeAditya"/>
 </p>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Scheherazade+New&color=%23AABFF7&size=30&lines=Hey!+How+you+doin'%3F">

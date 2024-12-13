@@ -1,6 +1,6 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=adityacheke291&label=Profile views&color=0e75b6&style=flat" alt="chekeAditya" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=chekeAditya&label=Profile views&color=0e75b6&style=flat" alt="chekeAditya" /> </p>
 <p align="right">
-    <img src="https://komarev.com/ghpvc/?username=adityacheke291&label=Profile views&color=0e75b6&style=flat" alt="chekeAditya" />
+    <img src="https://komarev.com/ghpvc/?username=chekeAditya&label=Profile views&color=0e75b6&style=flat" alt="chekeAditya" />
 </p>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Scheherazade+New&color=%23AABFF7&size=30&lines=Hey!+How+you+doin'%3F">
